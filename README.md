@@ -17,6 +17,8 @@ make && make run
 
 ## 运行结果
 
+![result](https://github.com/zybbigpy/Directory-Tree/blob/master/img/result.PNG)
+
 ## 参考
 
 1. [控制台打印二叉树的有趣方法](https://stackoverflow.com/questions/801740/c-how-to-draw-a-binary-tree-to-the-console)
