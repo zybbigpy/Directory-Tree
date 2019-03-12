@@ -7,7 +7,11 @@
 1. 使用该方法可以方便的实现Linux 下的目录树。
 2. 使用该方法可以方便的实现Linux 下的进程树。 (NJU-OS-LAB-01)
 
+---
+
 ## 运行测试
+
+### 内置简单测试
 
 `treePrint.c` 文件提供了相关的结点接口，调用打印接口和一个简单测试。使用方法为：
 
@@ -15,9 +19,17 @@
 make && make run
 ```
 
+### Linux Pstree测试
+
+测试完成！等待后续发布。
+
+---
+
 ## 运行结果
 
 ![result](https://github.com/zybbigpy/Directory-Tree/blob/master/img/result.PNG)
+
+---
 
 ## 参考
 
